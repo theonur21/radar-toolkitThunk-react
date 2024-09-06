@@ -1,6 +1,6 @@
 <h1> RADAR FLIGHT PROJECT </h1>
 
-"create radar flight project"
+"Developing radar flight project"
 
 - react-leaflet,
 - react-redux,
