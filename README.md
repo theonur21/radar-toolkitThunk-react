@@ -1,13 +1,13 @@
 <h1> RADAR FLIGHT PROJECT </h1>
 
-"Developing radar flight project"
+"Developing a radar flight project"
 
 - react-leaflet,
 - react-redux,
 - @reduxjs/toolkit,
 - axios,
 - react-paginate,
-- thunk (toolkit içerisinde),
+- thunk (toolkit içerisinde)
 
 # KAYNAKLAR:---
 - API: "https://rapidapi.com/apidojo/api/flight-radar1",
@@ -22,7 +22,7 @@
 - App.js içerisinde bu ikili arasında geçişi sağla,
 - `MapView.jsx` harita (react leaflet) kurulumu yap,
 - toolkit ile redux kurulumu yap,
-- uygulama ekrana gelince türkiye için uçuş verilerini al, store'a aktar,
+- uygulama ekrana gelince türkiye için uçuş verilerini al, store'a aktar
 
 <h2> Used technologies </h2>
 

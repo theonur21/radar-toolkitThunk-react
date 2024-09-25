@@ -11,8 +11,6 @@ const SideDetail = ({detailId, setShowDetail})=> {
         .then((res)=>setDetail(res.data));
     },[detailId]);
 
-    console.log(d);
-
     return (
         <div className="detail">
             <div className="detail-inner">
