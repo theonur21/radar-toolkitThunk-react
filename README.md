@@ -1,6 +1,6 @@
 <h1> RADAR FLIGHT PROJECT </h1>
 
-"Developing a radar flight project"
+"Developing radar flight project"
 
 - react-leaflet,
 - react-redux,
@@ -19,7 +19,7 @@
 # YAPILACAKLAR:---
 - liste görünümü `ListView.jsx` bileşeni oluştur,
 - harita görünümü `MapView.jsx` bileşeni oluştur,
-- App.js içerisinde bu ikili arasında geçişi sağla,
+- App.js içerisinde bu ikili arasında geçiş sağla,
 - `MapView.jsx` harita (react leaflet) kurulumu yap,
 - toolkit ile redux kurulumu yap,
 - uygulama ekrana gelince türkiye için uçuş verilerini al, store'a aktar
@@ -30,4 +30,4 @@ toolkitTHUNK - REACT
 
 <h2> Screen Gif </h2>
 
-![](ekran.gif)
+![](ekran1.gif)
