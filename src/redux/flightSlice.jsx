@@ -16,13 +16,13 @@ const flightSlice = createSlice({
         .addCase(getFlights.pending, (state)=>{
             state.isLoading = true;
         })
-        // cevap olumlu
+        // cevap olumluysa
         .addCase(getFlights.fulfilled, (state, action)=>{
             state.isLoading = false;
             state.isError = false;
             state.flights = action.payload;
         } )
-        // cevap olumsuz
+        // cevap olumsuzsa
         .addCase(getFlights.rejected, (state)=>{
             state.isLoading = false;
             state.isError = "Uçuş verileri alınırken bir hata oluştu";

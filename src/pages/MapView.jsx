@@ -1,8 +1,6 @@
 import { MapContainer, TileLayer, Marker, Popup, } from 'react-leaflet'
 import "leaflet/dist/leaflet.css";
 import { useSelector } from 'react-redux';
-import store from '../redux/store';
-import flightSlice from './../redux/flightSlice';
 
 const MapView = ({openDetail, setShowDetail})=> {
     const store = useSelector((store)=> store);

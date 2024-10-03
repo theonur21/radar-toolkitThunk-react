@@ -1,6 +1,6 @@
-<h1> RADAR FLIGHT PROJECT </h1>
+<h1>RADAR FLIGHT PROJECT</h1>
 
-"Developing radar flight project"
+"Developing a radar flight project"
 
 - react-leaflet,
 - react-redux,
@@ -14,7 +14,7 @@
 - sol alt enlem:34.812898,
 - sol alt boylam:27.594460,
 - sağ üst enlem:41.582989,
-- sağ üst boylam:44.816771,
+- sağ üst boylam:44.816771
 
 # YAPILACAKLAR:---
 - liste görünümü `ListView.jsx` bileşeni oluştur,
